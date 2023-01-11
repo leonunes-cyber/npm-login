@@ -1,0 +1,12 @@
+{
+  "name": "@cyber_leo/loginpackage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^6.4.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
