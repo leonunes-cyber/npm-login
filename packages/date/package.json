@@ -1,0 +1,14 @@
+{
+  "name": "@cyber_leo/date-logic",
+  "version": "1.0.0",
+  "description": "A package that returns the current date",
+  "main": "index.js",
+  "publishConfig": {
+     "@cyber_leo:registry": "https://npm.pkg.github.com/cyber_leo"
+  },
+  "scripts":{
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo",
+  "license": "ISC"
+}
